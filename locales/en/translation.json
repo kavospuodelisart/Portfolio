@@ -1,24 +1,61 @@
 {
-  "hero": {
-    "subtitle": "I'm a photographer and artist with a passion for capturing moments and creating unique visual stories. Explore my collections to see the world through my lens."
+  "nav": {
+    "sporePrints": "Spore Prints",
+    "process": "Process",
+    "macroArchive": "Macro Archive",
+    "openMenu": "Open main menu",
+    "brandTagline": "Spore Prints",
+    "homepageAria": "Homepage",
+    "logoAlt": "Lukas Klinga Logo"
   },
-  "passions": {
-    "title": "My passions",
-    "photography_title": "Photography",
-    "photography_desc": "Moments captured through my lens.",
-    "artwork_title": "Artwork",
-    "artwork_desc": "A mix of digital paintings, sketches, and oil pastels.",
-    "blog_title": "Blog",
-    "blog_desc": "Thoughts, stories, and updates."
+  "hero": {
+    "tagline": "Spore Prints & Macro Photography",
+    "subtitle": "Fungal Geometry & Form — Capturing Unique Spore Prints.",
+    "cta": "Print Collection",
+    "process": "Behind the Process"
+  },
+  "exhibition": {
+    "badge": "Print Collection",
+    "title": "Fungi Spores",
+    "subtitle": "Original fungi spore prints on paper paired with macro photography."
+  },
+  "sporeCard": {
+    "viewMacro": "Macro Details",
+    "viewPhysical": "Physical Print",
+    "dimensions": "Dimensions",
+    "altMacro": "{{title}} - Macro Photograph",
+    "altPhysical": "{{title}} - Framed Physical Spore Print",
+    "openDetails": "Open {{title}} details"
+  },
+  "concept": {
+    "badge": "Artist Statement",
+    "title": "The Fungi World Up Close",
+    "quote": "My goal is to capture spore forms and textures that are not visible or noticeable in everyday life. Fungi leave behind unique patterns, shapes, and color traces that reveal themselves in a truly distinct way.",
+    "contactGallery": "Get in Touch"
+  },
+  "home": {
+    "macroArchive": {
+      "kicker": "Archive",
+      "title": "Macro Photography",
+      "body": "Close-up photographs of spore patterns and surface textures.",
+      "button": "View Macro Archive"
+    },
+    "heroBgAltYellow": "Yellow spore background",
+    "heroBgAltGreen": "Green spore background",
+    "heroBgAltRed": "Red spore background",
+    "artistPhotoAlt": "Lukas Klinga - Artist & Mycological Photographer"
   },
   "contact": {
-    "title": "Got a question or idea?",
-    "subtitle": "I’d love to hear from you! Drop a message below and I’ll reply soon."
+    "title": "Have a question or gallery inquiry?",
+    "subtitle": "Send a message — I’ll get back to you soon."
   },
   "footer": {
-    "home": "Home",
+    "home": "Spore Prints",
+    "macroArchive": "Macro Archive",
     "contact": "Contact",
-    "copyright": "© {{year}} Lukas Klinga. All rights reserved."
+    "copyright": "© {{year}} Lukas Klinga. All rights reserved.",
+    "logoAlt": "Lukas Klinga Portfolio Logo",
+    "visitProfile": "Visit my {{name}} profile"
   },
   "contactForm": {
     "success_title": "Thank you!",
@@ -32,45 +69,125 @@
     "placeholder_message": "Your message...",
     "button_send": "Send Message"
   },
+  "errorBoundary": {
+    "title": "Something went wrong",
+    "message": "An unexpected error occurred. Please refresh the page or return home.",
+    "button_home": "Go Home"
+  },
   "notFound": {
     "title": "Page Not Found",
     "message": "Oops! The page you're looking for doesn't exist. It might have been moved or deleted.",
     "button_home": "Go Back Home"
   },
-  "gallery": {
-    "photography_title": "Step into my lens.",
-    "photography_desc": "Explore photo albums capturing moments, textures, and everyday beauty.",
-    "artwork_title": "A Journey Through My Art",
-    "artwork_desc": "A mix of digital paintings, quick sketches, and oil pastel pieces—each one created with curiosity and a love for trying new things."
+  "sporePrintPage": {
+    "back": "Back to collection",
+    "featured": "Prints",
+    "dimensions": "Dimensions",
+    "medium": "Medium",
+    "macroStudy": "Macro Photography",
+    "macroSurfaceDetails": "Details & Textures",
+    "macroDetail": "{{title}} macro detail {{number}}",
+    "expandedMacro": "Expanded macro surface detail",
+    "closeLightbox": "Close lightbox",
+    "inquiryHeading": "Interested in collaborating?",
+    "inquiryCaption": "For exhibition inquiries, gallery loans, or collaborative projects — get in touch.",
+    "inquire": "Get in Touch"
   },
-  "cta": {
-    "artwork_title": "I also create!",
-    "artwork_text": "Beyond the lens, I explore worlds of color and form. Dive into my artwork collection and see my imagination come to life.",
-    "artwork_button": "View My Artwork Collection",
-    "photography_title": "I also observe!",
-    "photography_text": "Through the lens, I capture everyday beauty. Step into my photography collection and see the world as I do.",
-    "photography_button": "View My Photography Collection"
-  },
-  "albums": {
-    "cars": { "title": "CARS", "description": "Rally action shots and car show highlights" },
-    "churches": { "title": "CHURCHES", "description": "Capturing the beauty and serenity within church walls." },
-    "nature": { "title": "NATURE", "description": "The intricate beauty of the natural world." },
-    "insects": { "title": "ANIMALS", "description": "A closer look at the creatures we share our world with." },
-    "digital-paintings": { "title": "Digital Paintings", "description": "A collection of my vibrant digital paintings." },
-    "sketches": { "title": "Sketches & Doodles", "description": "Various sketches, studies, and doodles." },
-    "oil-pastel": { "title": "Oil & Pastel", "description": "Expressive works in oil and pastel." },
-    "fungi": { "title": "FUNGI", "description": "A visual journal of fungi spotted in nature—curious shapes, textures, and colors from forest walks." }
-  },
-  "explore": {
-    "artwork_title": "Explore Other Artworks",
-    "photography_title": "Explore Other Photography"
-  },
-  "album_page": {
-    "back_to_artwork_gallery": "Back to Artwork Gallery",
-    "back_to_photography_gallery": "Back to Photography Gallery"
-  },
-  "fungi": {
-      "title": "FUNGI",
-      "description": "A visual journal of fungi spotted in nature—curious shapes, textures, and colors from forest walks."
+  "macroArchive": {
+    "kicker": "Archive",
+    "title": "Macro Photography",
+    "subtitle": "Close-up photographs of spore patterns and surface textures.",
+    "back": "Back to collection",
+    "openStudy": "Open {{specimen}} {{study}}",
+    "closeLightbox": "Close lightbox",
+    "inquiryHeading": "Interested in collaborating?",
+    "inquiryCaption": "For exhibition inquiries, gallery loans, or collaborative projects — get in touch.",
+    "inquire": "Get in Touch",
+    "alt": {
+      "centralDeposit": "Central spore deposit study",
+      "surfaceDensity": "Surface density and edge study",
+      "radialTrajectory": "Radial spore trajectory study",
+      "powderyRelief": "Powdery relief angle study"
+    },
+    "studies": {
+      "studyA": "Specimen 1",
+      "studyB": "Specimen 2",
+      "studyC": "Specimen 3",
+      "studyD": "Specimen 4"
+    },
+    "specimens": {
+      "flammulinaVelutipes": "Velvet Shank (Flammulina velutipes)",
+      "pleurotusOstreatus": "Oyster Mushroom (Pleurotus ostreatus)",
+      "suillellusLuridus": "Lurid Bolete (Suillellus luridus)"
     }
+  },
+  "process": {
+    "badge": "Studio Process",
+    "title": "Creating & Photographing Spore Prints",
+    "subtitle": "From forest foraging to photography — documenting how spore prints are crafted and captured up close.",
+    "step1": {
+      "title": "01. Mushroom Foraging",
+      "text": "Wild specimens are ethically harvested across local Lithuanian forests and towns without disturbing the underground mycelial networks."
+    },
+    "step2": {
+      "title": "02. Identification & Research",
+      "text": "Before creating a print, each specimen is documented and identified using the guide \"Didžioji Lietuvos grybų knyga\"."
+    },
+    "step3": {
+      "title": "03. Cap Preparation",
+      "text": "Stems are carefully trimmed and caps are dried for the preparation of printing."
+    },
+    "step4": {
+      "title": "04. Spore Collection",
+      "text": "Caps are placed on heavy paper or carton and kept covered for 8–12 hours, allowing the mushroom to naturally deposit its spores."
+    },
+    "step5": {
+      "title": "05. Macro Documentation",
+      "text": "Using a macro setup, I capture high-detail photography of the final spore compositions and fine surface textures."
+    }
+  },
+  "processImages": {
+    "gathering1": "Foraging wild specimens in the field",
+    "gathering2": "Close-up of collected mushroom material",
+    "book1": "Reference book pages used for species identification",
+    "book2": "Open field guide with fungi identification details",
+    "preparing": "Preparing caps for spore print creation",
+    "carton": "Spore print layout composition on heavy carton",
+    "photography": "Macro photography setup of a spore print detail",
+    "macroArchivePhoto": "Macro Archive preview study"
+  },
+  "seo": {
+    "processTitle": "Process | Lukas Klinga",
+    "processDescription": "The process behind creating spore prints — from forest foraging and cap preparation to high-magnification macro photography.",
+    "archiveTitle": "Macro Archive | Lukas Klinga",
+    "archiveDescription": "Studies of isolated spore prints, examining edge gradients, surface textures, and pigment behavior on paper.",
+    "printTitleSuffix": " | Lukas Klinga",
+    "printDescription": "View artwork details and macro surface studies of this spore print by Lukas Klinga."
+  },
+  "sporePrints": {
+    "mediums": {
+      "heavyCarton": "Heavy carton paper",
+      "uncoatedPaper": "Uncoated copy paper"
+    },
+    "a3_01": {
+      "title": "WIND DIRECTIONS",
+      "desc": "Spore prints of three fungi species on heavy carton paper.",
+      "curatorNote": "Foraged on a damp afternoon in July 2026 around the streams of Verkių Regional Park.\n\nThis composition reveals the natural geometry and movement trajectory created as wild spores drift and deposit onto paper."
+    },
+    "a3_02": {
+      "title": "DUNES OF DOUBT",
+      "desc": "Spore prints of four fungi species on heavy carton paper.",
+      "curatorNote": "Foraged on a sunny afternoon in mid-July 2026 in Bukiškis town.\n\nEach specimen left a distinct, unrepeatable deposit, showcasing the individual spore pigments and radial forms of wild fungi."
+    },
+    "a4_01": {
+      "title": "FLOW OF TIME",
+      "desc": "Spore prints of three fungi species on uncoated paper.",
+      "curatorNote": "Foraged on a sunny afternoon in mid-July 2026 in Bukiškis town.\n\nEach specimen left a distinct, unrepeatable deposit, showcasing the individual spore pigments and radial forms of wild fungi."
+    },
+    "a4_02": {
+      "title": "CONNECTIONS",
+      "desc": "Spore prints of two fungi species on uncoated paper.",
+      "curatorNote": "Foraged on a sunny afternoon in mid-July 2026 in Bukiškis town.\n\nEach specimen left a distinct, unrepeatable deposit, showcasing the individual spore pigments and radial forms of wild fungi."
+    }
+  }
 }

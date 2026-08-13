@@ -1,28 +1,65 @@
 {
-  "hero": {
-    "subtitle": "Esu fotografas ir menininkas, fiksuojantis akimirkas ir kuriantis unikalias vizualines istorijas."
+  "nav": {
+    "sporePrints": "Sporų antspaudai",
+    "process": "Procesas",
+    "macroArchive": "Makro archyvas",
+    "openMenu": "Atidaryti meniu",
+    "brandTagline": "Sporų antspaudai",
+    "homepageAria": "Pagrindinis puslapis",
+    "logoAlt": "Luko Klingos logotipas"
   },
-  "passions": {
-    "title": "Mano hobiai",
-    "photography_title": "Fotografija",
-    "photography_desc": "Akimirkos, užfiksuotos per mano objektyvą.",
-    "artwork_title": "Meno kūriniai",
-    "artwork_desc": "Skaitmeninių paveikslų, eskizų ir aliejinių pastelių derinys.",
-    "blog_title": "Tinklaraštis",
-    "blog_desc": "Mintys, istorijos ir naujienos."
+  "hero": {
+    "tagline": "Sporų antspaudai ir makro fotografija",
+    "subtitle": "Grybų geometrija ir forma — unikalių atspaudų fiksavimas.",
+    "cta": "Anstpaudų kolekcija",
+    "process": "Proceso užkulsiai"
+  },
+  "exhibition": {
+    "badge": "Spaudinių kolekcija",
+    "title": "Grybų sporos",
+    "subtitle": "Tikri grybų sporų atspaudai ant popieriaus ir jų makro nuotraukos."
+  },
+  "sporeCard": {
+    "viewMacro": "Makro detalės",
+    "viewPhysical": "Fizinis atspaudas",
+    "dimensions": "Matmenys",
+    "altMacro": "{{title}} - Makro nuotrauka",
+    "altPhysical": "{{title}} - Rėmuotasis fizinis atspaudas",
+    "openDetails": "Atverti {{title}} detales"
+  },
+  "concept": {
+    "badge": "Menininko žodis",
+    "title": "Grybų pasaulis iš arti",
+    "quote": "Mano tikslas — užfiksuoti sporų formas ir tekstūras, kurios nėra matomos ar pastebimos kasdieniniame gyvenime. Grybai palieka nepakartojamus raštus, formas ir spalvų pėdsakus, kurie atsiskleidžia itin savitai.",
+    "contactGallery": "Susisiekti"
+  },
+  "home": {
+    "macroArchive": {
+      "kicker": "Archyvas",
+      "title": "Makro fotografija",
+      "body": "Stambaus plano sporų raštų nuotraukos.",
+      "button": "Peržiūrėti makro archyvą"
+    },
+    "heroBgAltYellow": "Geltonų sporų fonas",
+    "heroBgAltGreen": "Žalių sporų fonas",
+    "heroBgAltRed": "Raudonų sporų fonas",
+    "artistPhotoAlt": "Lukas Klinga - Menininkas ir mikologijos fotografas"
   },
   "contact": {
-    "title": "Turite klausimų ar idėjų?",
-    "subtitle": "Norėčiau išgirsti iš jūsų! Parašykite žinutę žemiau ir aš greitai atsakysiu."
+    "title": "Turite klausimą ar norite pasiteirauti dėl parodos?",
+    "subtitle": "Parašykite žinutę — netrukus susisieksiu."
   },
   "footer": {
-    "home": "Pradžia",
+    "home": "Sporų antspaudai",
+    "macroArchive": "Makro archyvas",
     "contact": "Kontaktai",
-    "copyright": "© {{year}} Lukas Klinga. Visos teisės saugomos."
+    "copyright": "© {{year}} Lukas Klinga. Visos teisės saugomos.",
+    "logoAlt": "Luko Klingos portfelio logotipas",
+    "visitProfile": "Apsilankykite mano {{name}} profilyje"
   },
   "contactForm": {
     "success_title": "Ačiū!",
-    "success_message": "Jūsų žinutė išsiųsta. Greitai su jumis susisieksiu.",
+    "success_message": "Jūsų žinutė išsiųsta. Netrukus susisieksiu.",
     "error_alert": "Siunčiant žinutę įvyko klaida. Bandykite dar kartą.",
     "label_name": "Vardas",
     "placeholder_name": "Jūsų vardas",
@@ -32,69 +69,125 @@
     "placeholder_message": "Jūsų žinutė...",
     "button_send": "Siųsti žinutę"
   },
-  "notFound": {
-    "title": "Puslapis nerastas",
-    "message": "Ups! Puslapis, kurio ieškote, neegzistuoja. Jis galėjo būti perkeltas arba ištrintas.",
+  "errorBoundary": {
+    "title": "Kažkas negerai",
+    "message": "Įvyko netikėta klaida. Atnaujinkite puslapį arba grįžkite į pradžią.",
     "button_home": "Grįžti į pradžią"
   },
-  "gallery": {
-    "photography_title": "Žvilgsnis per mano objektyvą.",
-    "photography_desc": "Naršykite nuotraukų albumus, kuriuose užfiksuotos akimirkos, tekstūros ir kasdienis grožis.",
-    "artwork_title": "Kelionė per mano meną",
-    "artwork_desc": "Skaitmeninių paveikslų, greitų eskizų ir aliejinių pastelių derinys – kiekvienas sukurtas su smalsumu ir meile išbandyti naujus dalykus."
+  "notFound": {
+    "title": "Puslapis nerastas",
+    "message": "Puslapis, kurio ieškote, neegzistuoja arba buvo perkeltas.",
+    "button_home": "Grįžti į pradžią"
   },
-  "cta": {
-    "artwork_title": "Aš ir kuriu!",
-    "artwork_text": "Už objektyvo ribų aš tyrinėju spalvų ir formų pasaulius. Pasinerkite į mano meno kūrinių kolekciją ir pamatykite, kaip atgyja mano vaizduotė.",
-    "artwork_button": "Peržiūrėti mano meno kolekciją",
-    "photography_title": "Aš taip pat stebiu!",
-    "photography_text": "Per objektyvą aš fiksuoju kasdienį grožį. Ženkite į mano fotografijos kolekciją ir pamatykite pasaulį taip, kaip jį matau aš.",
-    "photography_button": "Peržiūrėti mano fotografijos kolekciją"
+  "sporePrintPage": {
+    "back": "Atgal į kolekciją",
+    "featured": "Antspaudai",
+    "dimensions": "Matmenys",
+    "medium": "Medžiaga",
+    "macroStudy": "Makro Fotografija",
+    "macroSurfaceDetails": "Detalės & Tekstūros",
+    "macroDetail": "{{title}} makro detalė {{number}}",
+    "expandedMacro": "Išplėsta makro paviršiaus detalė",
+    "closeLightbox": "Uždaryti peržiūrą",
+    "inquiryHeading": "Norite bendradarbiauti?",
+    "inquiryCaption": "Dėl parodų, galerijų ekspozicijų ir bendrų projektų — susisiekite.",
+    "inquire": "Susisiekti"
   },
-  "albums": {
-    "cars": {
-      "title": "AUTOMOBILIAI",
-      "description": "Akimirkos iš automobilių šou ir ralio varžybų."
+  "macroArchive": {
+    "kicker": "Archyvas",
+    "title": "Makro fotografija",
+    "subtitle": "Stambaus plano sporų raštų nuotraukos.",
+    "back": "Atgal į kolekciją",
+    "openStudy": "Atverti {{specimen}} {{study}}",
+    "closeLightbox": "Uždaryti peržiūrą",
+    "inquiryHeading": "Norite bendradarbiauti?",
+    "inquiryCaption": "Dėl parodų, galerijų ekspozicijų ir bendrų projektų — susisiekite.",
+    "inquire": "Susisiekti",
+    "alt": {
+      "centralDeposit": "Centrinio sporų nusėdimo studija",
+      "surfaceDensity": "Paviršiaus tankio ir krašto studija",
+      "radialTrajectory": "Radialinės sporų trajektorijos studija",
+      "powderyRelief": "Pudrinio reljefo kampo studija"
     },
-    "churches": {
-      "title": "BAŽNYČIOS",
-      "description": "Užfiksuotas grožis ir ramybė bažnyčių viduje."
+    "studies": {
+      "studyA": "Egzempliorius 1",
+      "studyB": "Egzempliorius 2",
+      "studyC": "Egzempliorius 3",
+      "studyD": "Egzempliorius 4"
     },
-    "nature": {
-      "title": "GAMTOVAIZDŽIAI",
-      "description": "Iamžintas gamtos pasaulio grožis."
-    },
-    "insects": {
-      "title": "GYVŪNAI",
-      "description": "Artimesnis žvilgsnis į būtybes, su kuriomis dalijamės pasauliu."
-    },
-    "digital-paintings": {
-      "title": "SKAITMENINIAI PAVEIKSLAI",
-      "description": "Mano ryškių skaitmeninių piešinių kolekcija."
-    },
-    "sketches": {
-      "title": "ESKIZAI IR PIEŠINIAI",
-      "description": "Įvairūs eskizai, studijos ir piešinėliai."
-    },
-    "oil-pastel": {
-      "title": "ALIEJINIAI DAŽAI IR PASTELĖS",
-      "description": "Išraiškingi darbai aliejumi ir pastele."
-    },
-    "fungi": {
-      "title": "GRYBAI",
-      "description": "Vizualus grybų dienoraštis – keistos formos, tekstūros ir spalvos iš pasivaikščiojimų miškuose."
+    "specimens": {
+      "flammulinaVelutipes": "Juodkotė ugniabudė (Flammulina velutipes)",
+      "pleurotusOstreatus": "Gluosninė kreivabudė (Pleurotus ostreatus)",
+      "suillellusLuridus": "Tikrasis paąžuolis (Suillellus luridus)"
     }
   },
-  "explore": {
-    "artwork_title": "Naršykite kitus meno kūrinius",
-    "photography_title": "Naršykite kitus fotografijos albumus"
-  },
-  "album_page": {
-    "back_to_artwork_gallery": "Grįžti į Meno kūrinių galeriją",
-    "back_to_photography_gallery": "Grįžti į Fotografijos galeriją"
-  },
-  "fungi": {
-      "title": "GRYBAI",
-      "description": "Vizualus grybų dienoraštis – keistos formos, tekstūros ir spalvos iš pasivaikščiojimų miškuose."
+  "process": {
+    "badge": "Spaudos procesas",
+    "title": "Sporų atspaudų kūrimas ir fotografavimas",
+    "subtitle": "Nuo rinkimo miške iki fotografijos - procese parodau, kaip sporų atspaudai sukūriami ir fotografuojami.",
+    "step1": {
+      "title": "01. Grybų rinkimas",
+      "text": "Grybai etiškai renkami Lietuvos miškuose bei miesteliuose, nepažeidžiant grybienos tinklų."
+    },
+    "step2": {
+      "title": "02. Atpažinimas bei dokumentacija",
+      "text": "Surinktus grybus dokumentuoju bei susipažystu naudodamasis Didžiaja Lietuvos Grybų Knyga."
+    },
+    "step3": {
+      "title": "03. Paruošimas spauzdinimui",
+      "text": "Grybų koteliai nupjaunami bei patys grybai nusausinami, taip paruošiant kontaktui su popieriumi."
+    },
+    "step4": {
+      "title": "04. Sporų surinkimas",
+      "text": "Paruoštus grybus sudedu ant storo kartono, bei palieku uždengtus bent 8-12 valandų, tai užtikrina kad grybas paskleis visas sporas."
+    },
+    "step5": {
+      "title": "05. Sporų fotografavimas",
+      "text": "Naudodamas foto kamera fiksuoju gautus spaudinius, bei atskiras sporų detales."
     }
+  },
+  "processImages": {
+    "gathering1": "Grybų rinkimas gamtoje",
+    "gathering2": "Artimas surinktų grybų medžiagos vaizdas",
+    "book1": "Grybų atpažinimo vadovo puslapiai",
+    "book2": "Atviri grybų atpažinimo vadovo puslapiai",
+    "preparing": "Grybų paruošimas spauzdinimui",
+    "carton": "Sporų atspaudo kūrimas ant kartono",
+    "photography": "Sporų atspaudo makro nuotrauka",
+    "macroArchivePhoto": "Makro archyvo peržiūros nuotrauka"
+  },
+  "seo": {
+    "processTitle": "Procesas | Lukas Klinga",
+    "processDescription": "Sporų atspaudų kūrimo procesas — nuo grybų rinkimo miške iki makro fotografavimo.",
+    "archiveTitle": "Makro archyvas | Lukas Klinga",
+    "archiveDescription": "Izoliuotų sporų atspaudų studijos, nagrinėjančios kraštų gradientus, paviršiaus tekstūras ir pigmento sąveiką su popieriumi.",
+    "printTitleSuffix": " | Lukas Klinga",
+    "printDescription": "Peržiūrėkite šio sporų atspaudo kūrinio detales ir makro studijas."
+  },
+  "sporePrints": {
+    "mediums": {
+      "heavyCarton": "Storas kartoninis popierius",
+      "uncoatedPaper": "Kopijavimo popierius"
+    },
+    "a3_01": {
+      "title": "VĖJŲ KRYPTYS",
+      "desc": "Trijų rūšių grybų sporų antspaudai ant kartono.",
+      "curatorNote": "Grybai rinkti drėgną popietę, 2026 m. liepą, Verkių regioninio parko upelių ištakose.\n\nŠi kompozicija atskleidžia laukinių grybų sporų raštus ir natūralią jų geometriją, atsirandančią sporoms krentant ant popieriaus bei jų judėjimo kryptis."
+    },
+    "a3_02": {
+      "title": "DVĖJONIŲ KOPOSE",
+      "desc": "Keturių rūšių grybų sporų antspaudai ant kartono.",
+      "curatorNote": "Grybai rinkti saulėtą popietę, 2026 m. liepos viduryje, Bukiškio miestelio apylinkėse.\n\nKiekvienas grybas paliko savo unikalų bei nepakartojamą įspaudą, taip išreikšdamas savo unikalias sporų spalvas bei formas."
+    },
+    "a4_01": {
+      "title": "LAIKO TEKMĖ",
+      "desc": "Trijų rūšių grybų sporų antspaudai ant popieriaus.",
+      "curatorNote": "Grybai rinkti saulėtą popietę, 2026 m. liepos viduryje, Bukiškio miestelio apylinkėse.\n\nKiekvienas grybas paliko savo unikalų bei nepakartojamą įspaudą, taip išreikšdamas savo unikalias sporų spalvas bei formas."
+    },
+    "a4_02": {
+      "title": "JUNGTYS",
+      "desc": "Dviejų rūšių grybų sporų antspaudai ant popieriaus.",
+      "curatorNote": "Grybai rinkti saulėtą popietę, 2026 m. liepos viduryje, Bukiškio miestelio apylinkėse.\n\nKiekvienas grybas paliko savo unikalų bei nepakartojamą įspaudą, taip išreikšdamas savo unikalias sporų spalvas bei formas."
+    }
+  }
 }
