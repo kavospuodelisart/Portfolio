@@ -68,7 +68,8 @@
     "placeholder_email": "your.email@example.com",
     "label_message": "Message",
     "placeholder_message": "Your message...",
-    "button_send": "Send Message"
+    "button_send": "Send Message",
+    "button_sending": "Sending…"
   },
   "errorBoundary": {
     "title": "Something went wrong",

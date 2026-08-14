@@ -68,7 +68,8 @@
     "placeholder_email": "jusu.elpastas@example.com",
     "label_message": "Žinutė",
     "placeholder_message": "Jūsų žinutė...",
-    "button_send": "Siųsti žinutę"
+    "button_send": "Siųsti žinutę",
+    "button_sending": "Siunčiama…"
   },
   "errorBoundary": {
     "title": "Kažkas negerai",
