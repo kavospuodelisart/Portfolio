@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Core Pages -->
   <url>
-    <loc>https://kavospuodelisart.github.io/Portfolio</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/</loc>
     <lastmod>2026-08-13</lastmod>
   </url>
   <url>
@@ -13,7 +13,6 @@
     <loc>https://kavospuodelisart.github.io/Portfolio/macro-archive</loc>
     <lastmod>2026-08-13</lastmod>
   </url>
-
   <!-- Individual Artwork Pages -->
   <url>
     <loc>https://kavospuodelisart.github.io/Portfolio/prints/spore-a3-01</loc>
